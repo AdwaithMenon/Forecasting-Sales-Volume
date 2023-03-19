@@ -74,3 +74,8 @@ We also believe that subjective forecasting approaches are insufficient for maki
 ### **Conclusions and Future Work**
 
 
+* When comparing results at the store level, our best model had the lowest RMSE when compared to most of the Kaggle submissions.
+
+* With enhanced computational power, we can explore advanced models such as Recurrent Neural Networks (RNN) and Seasonal  Artificial Neural Networks (Seasonal-ANN) to improve forecasting accuracy.
+
+
