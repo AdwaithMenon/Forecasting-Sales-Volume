@@ -16,9 +16,42 @@ We also believe that subjective forecasting approaches are insufficient for maki
 
 
 
+### **Model Comparison**
+
+<img width="486" alt="image" src="https://user-images.githubusercontent.com/70052374/226159626-1c441e01-cab1-49b8-baa2-82296724f30a.png">
+
+
+* Time Series Model in SAS gave the best results among the 5 models.
+
+
+
 ### **Recommendations**
 
+**a) Optimizing Shelf Space**
 
+* According to our data, the least sold products are those from the families of Hardware, Clothing, and Beauty. We advise giving shelf space for these products in accordance with the volume of sales. 
+
+* The shelf space should be assigned in such a way that the best-selling products, such as Groceries and Beverages, are placed at the back of the store. Customers would travel inside the store to purchase these items because they are the most popular, and the least sold items, such as hardware and clothing, should be placed on shelves and aisles that can attract customers' attention (near the store's entrance) so that sales volume for these items can be increased.
+
+
+**b)Leveraging Number of Stores**
+
+![image](https://user-images.githubusercontent.com/70052374/226159810-0fc64c63-b434-4a25-a726-fa72f734cc53.png)
+
+![image](https://user-images.githubusercontent.com/70052374/226159826-0caf09eb-42cd-4f12-bc8f-cc36effb92b5.png)
+
+
+* Despite having the second highest number of stores, the average sales for Guayaquil are lower than the average sales for Cayambe, Ambato, and Daule. 
+
+* We discovered that this was due to a greater number of items on promotion for the cities of Cayambe, Ambato, and Daule. We would suggest stores in Guayaquil to increase promotions in order to leverage their store count within the city for increased sales volume. 
+
+
+
+**c)**
+
+**d)**
+
+**e)**
 
 
 
