@@ -21,7 +21,7 @@ We also believe that subjective forecasting approaches are insufficient for maki
 <img width="486" alt="image" src="https://user-images.githubusercontent.com/70052374/226159626-1c441e01-cab1-49b8-baa2-82296724f30a.png">
 
 
-* Time Series Model in SAS gave the best results among the 5 models with an R2 of **0.663** and an MAPE of **0.127**.
+* **Time Series Model in SAS** gave the best results among the 5 models with an **R2 of 0.663** and an **MAPE of 0.127**.
 
 
 
