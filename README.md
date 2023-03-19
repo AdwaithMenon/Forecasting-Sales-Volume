@@ -1,4 +1,4 @@
-## _**Sales Volume Forecasting: Developing a Predictive Model for Business Success**_
+## _**Sales Volume Forecasting : Developing a Predictive Model for Business Success**_
 
 
 ### **Project Description**
