@@ -54,7 +54,7 @@ We also believe that subjective forecasting approaches are insufficient for maki
 
 * Thursdays have the lowest average daily sales. The reason for this is that there are fewer promotions on Thursdays. 
 
-* We recommend that stores launch a campaign such as "Thrifty Thursdays" to attract customers, where the number of items on promotion across all product families is highest on Thursdays, resulting in an increase in sales volume.
+* We recommend that stores launch a campaign called "Thrifty Thursdays" to attract customers, where the number of items on promotion across all product families is the highest on Thursdays, resulting in an increase in sales volume.
 
 
 ### **d) Reasonable Work Schedule**
