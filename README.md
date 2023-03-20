@@ -36,11 +36,9 @@ We also believe that subjective forecasting approaches are insufficient for maki
 
 ### **b) Leveraging Number of Stores**
 
-![image](https://user-images.githubusercontent.com/70052374/226159810-0fc64c63-b434-4a25-a726-fa72f734cc53.png)
-
-![image](https://user-images.githubusercontent.com/70052374/226159826-0caf09eb-42cd-4f12-bc8f-cc36effb92b5.png)
-
 ![image](https://user-images.githubusercontent.com/70052374/226232547-8f197553-3c41-44e3-862c-7afffd8912f1.png)
+
+![image](https://user-images.githubusercontent.com/70052374/226232609-a7bddff9-01ae-433a-b01d-41c25694cd7f.png)
 
 
 * Despite having the second highest number of stores, the average sales for Guayaquil are lower than the average sales for Cayambe, Ambato, and Daule. 
