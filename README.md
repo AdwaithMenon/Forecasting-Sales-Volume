@@ -51,6 +51,8 @@ We also believe that subjective forecasting approaches are insufficient for maki
 
 ![image](https://user-images.githubusercontent.com/70052374/226160004-fcbd465a-8061-4cb8-a7f1-3c130f0ed456.png)
 
+<img width="422" alt="image" src="https://user-images.githubusercontent.com/70052374/226232768-466bb06f-4abc-454a-b36e-cc78423e5312.png">
+
 
 * Thursdays have the lowest average daily sales. The reason for this is that there are fewer promotions on Thursdays. 
 
